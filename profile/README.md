@@ -3,7 +3,7 @@
 A fast, memory-safe SSH client for Linux and Windows, written in Rust. *Rooste* is Estonian for
 *rust*.
 
-![Rooste SSH with saved sessions, a terminal and the SFTP file panel](https://raw.githubusercontent.com/rooste-ssh/rooste-ssh/main/docs/images/rooste-dark.png)
+![Rooste SSH with two sessions side by side and the session manager](https://raw.githubusercontent.com/rooste-ssh/rooste-ssh/main/docs/images/split.png)
 
 - **Sessions:** tabs, split panes and a searchable session manager.
 - **Logins:** SSH agent, OpenSSH and `.ppk` keys, the system keyring, one-time codes.
